@@ -28,13 +28,14 @@ This is a web based application developed for health related telugu based websit
 
 
 
+![Screenshot (64)](https://user-images.githubusercontent.com/112278621/187459384-f926f62e-89d5-495f-ac5d-df961674031e.png)
+
+
+
+### Rules and Conditions -
+
+
 !
-
-
-### Privacy policy -
-
-
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
 
 
 
