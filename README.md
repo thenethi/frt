@@ -1,4 +1,4 @@
-# ✨ Travel Information  ✨
+# ✨ Travel & Traffic Information  ✨
 
 This is a web based application developed for knowing of the Travel details.
 
