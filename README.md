@@ -1,6 +1,6 @@
-# ✨ Bus, Train & Boat Tickets Booking  ✨
+# ✨ Travel Information  ✨
 
-This is a web based application developed for health related telugu based website in india
+This is a web based application developed for knowing of the Travel details.
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -12,8 +12,8 @@ This is a web based application developed for health related telugu based websit
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
+- Has collection of many web pages including Tickets, Travel Information, Customer Service.
+- User can know about traffic information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
@@ -35,7 +35,7 @@ This is a web based application developed for health related telugu based websit
 ### Rules and Conditions -
 
 
-!
+![Screenshot (65)](https://user-images.githubusercontent.com/112278621/187460017-6855ce63-3498-41ff-bf53-137b962090a8.png)
 
 
 
